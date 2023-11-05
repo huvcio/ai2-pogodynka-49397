@@ -1,0 +1,28 @@
+[2023-10-29T12:42:31.915028+00:00] my_log.ERROR: This is some error. [] []
+
+[2023-10-29T12:44:01.124835+00:00] my_log.ERROR: This is some error. [] []
+
+[2023-10-29T12:44:30.665763+00:00] my_log.ERROR: This is some error. [] []
+
+[2023-10-29T12:44:53.423920+00:00] my_log.ERROR: This is some error. [] []
+[2023-10-29T12:44:53.479323+00:00] my_log.WARNING: This is some warning. [] []
+
+[2023-10-29T12:45:09.748181+00:00] my_log.ERROR: This is some error. [] []
+[2023-10-29T12:45:09.785799+00:00] my_log.WARNING: This is some warning. [] []
+[2023-10-29T12:45:09.786230+00:00] my_log.NOTICE: This is some notice. [] []
+
+[2023-10-29T12:45:41.922230+00:00] my_log.ERROR: This is some error. [] []
+[2023-10-29T12:45:41.961097+00:00] my_log.WARNING: This is some warning. [] []
+[2023-10-29T12:45:41.961610+00:00] my_log.NOTICE: This is some notice. [] []
+[2023-10-29T12:45:41.961979+00:00] my_log.INFO: This is some info. [] []
+[2023-10-29T12:45:41.967421+00:00] my_log.INFO: Duck created. [] []
+
+[2023-10-29T12:46:19.561516+00:00] my_log.ERROR: This is some error. [] []
+[2023-10-29T12:46:19.598933+00:00] my_log.WARNING: This is some warning. [] []
+[2023-10-29T12:46:19.599330+00:00] my_log.NOTICE: This is some notice. [] []
+[2023-10-29T12:46:19.599625+00:00] my_log.INFO: This is some info. [] []
+[2023-10-29T12:46:19.599916+00:00] my_log.DEBUG: This is some debug. [] []
+[2023-10-29T12:46:19.604223+00:00] my_log.INFO: Duck created. [] []
+[2023-10-29T12:46:19.604551+00:00] my_log.DEBUG: Quack() executed. [] []
+[2023-10-29T12:46:19.605293+00:00] my_log.DEBUG: Quack() executed. [] []
+[2023-10-29T12:46:19.608727+00:00] my_log.DEBUG: Quack() executed. [] []
