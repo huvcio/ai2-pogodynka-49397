@@ -3,3 +3,13 @@ controllers:
         path: ../src/Controller/
         namespace: App\Controller
     type: attribute
+    
+location:
+    path: ../location
+
+measurement:
+    path: ../measurement
+
+app_logout:
+    path: /logout
+    methods: GET
